@@ -31,7 +31,7 @@ The code implements the Kozen based DFA minimization algorithm of reading 14, el
 The program follows three main steps:
 
 1. **leer_dfa()- Read DFA from the input**
-    - Reads the DFA from the input and sotres it in variables
+    - Reads the DFA from the input and stores it in variables
     - Uses set() for the final states
     - Stores the transitions table in a list of lists.
 
