@@ -8,7 +8,7 @@
 ## Technical Information
 
 - **Operating System:** Windows 11
-- **Programming Language:** Python 3.13.5
+- **Programming Language:** Python 3.12.3
 - **Tools Used:**
     - **Visual Studio Code:** Code editor to write and debug the program
     - **GitHub Classroom:** To submit the code
